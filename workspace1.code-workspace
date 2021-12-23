@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../js15 random api"
+		},
+		{
+			"path": "../../cappadocia"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "api drinks"
+	}
+}
